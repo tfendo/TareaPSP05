@@ -16,11 +16,11 @@ Lo modifiqué para que aparezca el nombre completo del día de la semana y del m
 
 Por último añadí la instrucción necesaria para que imprima la cabecera **Date** en cada una de las tres opciones posibles. A continuación presento las capturas correspondientes a cada una de las tres páginas:
 
-![Captura Lenguajes](ServerHTTP/doc/capturas/Captura de pantalla 2019-04-13 a las  18.45.26.png)
+![Captura Lenguajes](https://github.com/tfendo/TareaPSP05/blob/master/ServerHTTP/doc/capturas/Captura%20de%20pantalla%202019-04-13%20a%20las%2018.44.19.png)
 
-![Captura Lenguajes](ServerHTTP/doc/capturas/Captura de pantalla 2019-04-13 a las 18.44.19.png) 
+![Captura Lenguajes](https://github.com/tfendo/TareaPSP05/blob/master/ServerHTTP/doc/capturas/Captura%20de%20pantalla%202019-04-13%20a%20las%2018.45.26.png) 
 
-![Captura Lenguajes](ServerHTTP/doc/capturas/Captura de pantalla 2019-04-13 a las 18.45.55.png) 
+![Captura Lenguajes](https://github.com/tfendo/TareaPSP05/blob/master/ServerHTTP/doc/capturas/Captura%20de%20pantalla%202019-04-13%20a%20las%2018.45.55.png) 
 
 
 
@@ -29,4 +29,4 @@ En esta segunda parte me dí cuenta de que había varias instrucciones que no se
 
 En la siguiente captura se puede apreciar como se ejecutan dos consultas en dos navegadores distintos de forma simultánea:
 
-![Captura Lenguajes](ServerHTTP/doc/capturas/Captura de pantalla 2019-04-13 a las 21.44.23.png) 
+![Captura Lenguajes](https://github.com/tfendo/TareaPSP05/blob/master/ServerHTTP/doc/capturas/Captura%20de%20pantalla%202019-04-13%20a%20las%2021.44.23.png) 
